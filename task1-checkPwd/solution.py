@@ -1,3 +1,3 @@
-def solution(pwd: str) -> bool:
+def solution(pwd):
     # your solution here
     return True
