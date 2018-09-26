@@ -6,4 +6,5 @@
 
 Общаться и задавать вопросы можно в [Slack](https://join.slack.com/t/pytvsu/shared_invite/enQtNDQxODEyNDQ1MTg3LTY0NGRlNmVlMDQzY2Y5MmNiYjU4ODMyZjNjNjJmMGVlZjJkMjNiOTU0ODMwYTc2MGM4ZDEyOTlkY2FjZjQyNDM)
 
+[Документация](https://docs.python.org/3/reference/index.html)
 Почта для связи: dmitry.tbb@ya.ru
